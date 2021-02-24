@@ -1,2 +1,2 @@
-# exercicio01
-Exercício 01 para conclusão de curso de C++.
+# Exerício 01
+Resposta da atividade para conclusão de curso de C++.
